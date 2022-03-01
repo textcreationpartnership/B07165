@@ -1,0 +1,247 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Christopher Angell, a Grecian, who tasted of many stripes and torments inflicted by the Turkes for the faith which he had in Iesus Christ.</title>
+            <author>Angelus, Christophorus, d. 1638.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1618</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B07165</idno>
+            <idno type="STC">STC 641</idno>
+            <idno type="STC">ESTC S90301</idno>
+            <idno type="EEBO-CITATION">72798016</idno>
+            <idno type="OCLC">ocm 72798016</idno>
+            <idno type="VID">183990</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B07165)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183990)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2218:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Christopher Angell, a Grecian, who tasted of many stripes and torments inflicted by the Turkes for the faith which he had in Iesus Christ.</title>
+                  <author>Angelus, Christophorus, d. 1638.</author>
+               </titleStmt>
+               <extent>[16] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by Iohn Lichfield, and Iames Short, Printers to the famous Vniversitie,</publisher>
+                  <pubPlace>At Oxford, :</pubPlace>
+                  <date>1618..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Christophorus Angelus.  Cf. STC (2nd ed.).</note>
+                  <note>Printer's device on t.p., initials, headpieces.</note>
+                  <note>Signatures: A-B⁴.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Angelus, Christophorus, d. 1638 --  Early works to 1800.</term>
+               <term>Persecution --  Greece --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:183990:1"/>
+            <pb facs="tcp:183990:1" rendition="simple:additions"/>
+            <p>CHRISTOPHER ANGELL, A Grecian, who taſted of many ſtripes and torments inflicted by the Turkes for the faith which he had in Ieſus Chriſt.</p>
+            <p>
+               <hi>AT OXFORD,</hi> Printed by <hi>Iohn Lichfield,</hi> and <hi>Iames Short,</hi> Printers to the famous Vniuerſitie. 1618.</p>
+         </div>
+      </front>
+      <body>
+         <div type="to_the_reader">
+            <pb facs="tcp:183990:2"/>
+            <head>
+               <hi>TO THE MOST RENOWNED AND</hi> resplendent, moſt wiſe, and iudicious, most learned and louing Patrons of the Greeke Tongue: moſt gracious ſupporters of the decayed eſtate of all distreſſed Grecians and Strangers: Fathers and Brethren in Christ, Gouernours and Heads of the two famous and flouriſhing Vniuerſities of this Iland in generall, and more in particular to all heads of Colledges ther<g ref="char:EOLhyphen"/>in, and whatſoeuer Students vnder their protection, and to all Diuines, Phyſicians and Lawyers: Furthermore to all that beare authoritie in the ample and well gouerned Cities; In generall to the induſtrious and ſtudious among the Com<g ref="char:EOLhyphen"/>monaltie within the Confines of the euer honoured and admi<g ref="char:EOLhyphen"/>red England, prosperitie here, and glory hereafter.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Eretofore gray-eyed <hi>Minerua</hi> ſpake and propheſied in Athens, by the mouthes of learned Grecians: but now, and long before this time, I ſee her ſinging in Brittany by the mouths of the moſt wiſe Engliſh men, and crowning the ſonnes of England with all kinds of diuers coloured Garlands.</p>
+            <p>Concerning me, if any man ſhall enquire what might be the cauſe, and for what reaſon I came into this famous Iland, and haue trauelled ſo far as this moſt illuſtrious and renow<g ref="char:EOLhyphen"/>ned Vniuerſitie of Oxford; may it pleaſe him to he are the cauſe, (God himſelfe will witneſſe it to bee true according to this enſuing diſcourſe.) Becauſe the Deuill perceiued <hi>that his time was but ſhort,</hi> therefore he came into the Earth <hi>full of wrath</hi> and was mooued againſt the Church of God, as a ra<g ref="char:EOLhyphen"/>ging and angry Lion; according to that which S. <hi>Iohn</hi> ſaith in the Reuelation, the 12. Chap. and the 22. Verſe; and as the Prophet <hi>Danid</hi> ſpeaketh in the 80. Pſalme and the 13.
+<pb facs="tcp:183990:2"/>Verſe, <hi>The wild Bore out of the Wood hath deſtroyed it, and the wild beaſts of the fields haue eaten it:</hi> and againe in the 83. Pſalme, Verſe 5. and 6. <hi>They haue conſulted together in heart, and haue made a league againſt thee; The Tabernacles of Edom, and the Iſmaelites, &amp;c.</hi> Right ſo the Greeke Church at this time ſuffereth, being deſtitute of all perfection and know<g ref="char:EOLhyphen"/>ledge: the cauſe of this euill, is the great Turke, that is, the King of the Turkes doth deſire, and is willing to haue peace with all that are vnder him: but ſome of his Magiſtrates are very wicked and proud, and by thoſe the Greeke Church doth ſuffer much miſery. For this reaſon, neither can there be any Schoole, neither any Maſter deſiring to teach Schol<g ref="char:EOLhyphen"/>lers can remayne in one place. Euen as I ſuffered and know: who haue taſted of many kinds of miſerie. Now the cauſe of this my miſerie was this: I in my youth deſired much to better my vnderſtanding and my learning, remembring that ſaying of Chriſt; <hi>Search the Scriptures</hi> and <hi>in them</hi> thou <hi>ſhalt find euerlasting life:</hi> and that of Saint <hi>Paul</hi> to <hi>Timothie,</hi> In <hi>that thou hast knowne the holy Scriptures of a child which are able to make thee wiſe vnto ſaluation.</hi> And that of <hi>Salo<g ref="char:EOLhyphen"/>mon;</hi> where the Lord ſaith, <hi>In that thou askedſt wiſdome only and nothing elſe, I will giue thee wiſdome and riches therewith<g ref="char:EOLhyphen"/>all, and a Kingdome greater then all the Kingdoms of the earth:</hi> And that of <hi>Dauid</hi> in the hundred and nineteenth Pſalme, <hi>In thy Lawes did I meditate.</hi> Yet by reaſon of the defect of Teachers I trauelled through many places in Greece that I might ſupply that wa<g ref="char:cmbAbbrStroke">̄</g>t; profiting in ſome places more, in ſome leſſe: At length I came to Athens, ſtudied &amp; preached there; now the Captaine of that place, was an Hagarene, &amp; a dead<g ref="char:EOLhyphen"/>ly enemy to all Chriſtians which dwelt at Athens: beſides this, he was very couetous and cruell, vniuſt, and did much wrong to the Athenians: by reaſon whereof the Athenians went to the great Turke three ſeuerall times, and complay<g ref="char:EOLhyphen"/>ned of the iniuries which he had offered them, whereupon the great Turke ſent certaine Noble men to hang him; but by reaſon of his Riches and Nobilitie they could not accom<g ref="char:EOLhyphen"/>pliſh that they were ſent for. The Captaine vpon theſe com<g ref="char:EOLhyphen"/>plaints
+<pb facs="tcp:183990:3"/>was grieuouſly offended with the Athenians: and far<g ref="char:EOLhyphen"/>ther, to ſatisfie his owne greedie deſires, he oppreſſed many Strangers: amongſt the, reſt ſeeing me alſo, who was a Stran<g ref="char:EOLhyphen"/>ger and vnknowne of all: immediately he layes hands vpon me, diligently examined me concerning the name of the Go<g ref="char:EOLhyphen"/>uernour of my Natiue Countrey: I anſwered, that it was now almoſt twentie yeares ſince I left my Countrey for ſtudy and learning ſake; and that I had not as yet returned to my Coun<g ref="char:EOLhyphen"/>trey, and therefore I knew not the name of the Gouernour thereof. Then hee anſwered me, If you know not your Go<g ref="char:EOLhyphen"/>uernour, you muſt goe to Priſon; whither when I came, they clapt a paire of Bolts vpon my legs. Not long after the Go<g ref="char:EOLhyphen"/>uernour called many of the Turkes, who deriue their begin<g ref="char:EOLhyphen"/>ning from <hi>Mahomet:</hi> and then he tooke me out of Priſon, &amp; brought me before them, and ſaid vnto them, Behold a Spa<g ref="char:EOLhyphen"/>niſh Traytor. They all cryed out, Tis true as you ſay, hee is a trayterous Spaniard, as we know by his Beard, for it is long and picked, and blacke, and his clothes are of a Spaniſh red (for I did weare apparell of red colour, ſuch as the chiefe of the Greeke Monkes vſe alſo:) and ſome of the Chriſtians ſtanding by, made anſwere for mee to the Turkes, that this was the vſuall apparell of the better fort of the Greeke Monkes: but the Turkes withſtood that, ſaying, that the Monkes Habits were made of courſer cloth, but mine was of finer, and therefore a Spaniſh garment. This they ſaid, not that the cloth was indeed finer then that of other Monks, but that they might vniuſtly picke a quarrell; and bring ſome accuſation, whereby they might puniſh me. After this they began to iutice me ſaying; Our Eaſter is neere at hand, and if thou wilt deny thy Chriſt, wee promiſe thee (and that wee may not deceiue thee as concerning our promiſe, we ſweare) that if thou wilt become a Turke, thou ſhalt greatly honour our feaſt day, and for this wee will make thee a Centurion, beſides other great honours which wait vpon thee. Now it is the manner of the Turkes when they ſweare, not to falſifie their words; and thrice in this manner they tempted me: but I denied them alwaies, telling them, That my care was not
+<pb facs="tcp:183990:3"/>for honours, but that I deſired rather to die in the ſame Re<g ref="char:EOLhyphen"/>ligion, for which my father and mother died alſo. Then one of the Gouernours came, and plucking me by the Beard, &amp; the haire of the head, buffetted mee, ſaying; Why, ſeeing I turned Turke, maiſt not thou alſo? (for before time he had beene a Chriſtian) I anſwered him, that I cared not what hee had done, I allow not of it. Then he threw me on the grou<g ref="char:cmbAbbrStroke">̄</g>d, and trampled vpon my head before all the Congregation of Turkes, and Chriſtians. And afterwards they ſhut mee vp in cloſe ward, meaning after a few houres to bring mee out a<g ref="char:EOLhyphen"/>gaine to puniſhment, that for feare of ſtripes I might turne Turke. And certaine Chriſtian ſlaues belonging to the Cap<g ref="char:EOLhyphen"/>taine, who were of the Weſterne Church, came to me, ſaying: Now is the time that thou ſhalt beſcourged to death vnleſſe thou turne; and they beſought me, ſaying, It is better to dye then turne Turke. I anſwered, God forbid, that I ſhould de<g ref="char:EOLhyphen"/>nie Chriſt the true God, I will firſt die an hundred times in one day before I denie my Sauiour Chriſt. Then my conſci<g ref="char:EOLhyphen"/>ence ſaid to me in priuate: But can I then endure torments euen vnto death? Then my reaſon anſwered, Chriſt was a man, and yet he ſuffered on the Croſſe to death, and that not for himſelfe, but others. But then I reaſoned againe; Chriſt was both God and man, therefore hee could withſtand the terrours of death: but I am a fleſhly man, and perchance I cannot vndergoe the cruell pangs of death: but my conſci<g ref="char:EOLhyphen"/>ence ſolued all this doubt, in that the Martyrs were fleſhly men, and ſinners, yet by the grace of God were ſtrengthe<g ref="char:EOLhyphen"/>ned to die, therefore by the ſame grace ſhall I be ſuſtained. And in this cogitation I was much comforted, and preuailed in ſpirit, and wholly gaue my ſelfe ouer to ſuffer death: and they led mee ſtraight waies to the place of execution, and bound me hand, and foote in manner of a Croſſe vpon the Earth, as appeareth by this figure following.</p>
+            <figure/>
+            <p>Theſe ſignifie two Turkes, beating <hi>Chriſtopher Angelo</hi> with two Cudgels on each ſide of him, one ſtrikes him on the head, and the other on the ſide. And hee remayned one houre dead, as the Athenians told him, after he was reuiued.</p>
+            <p>Since here I haue no witneſſes, that for the preſent may te<g ref="char:EOLhyphen"/>ſtifie the truth of theſe my ſufferings, therefore I call the e<g ref="char:EOLhyphen"/>ternall Father, and God of all, both witneſſe and iudge in this manner: The eternall God puniſh me in this World and in that to come, if I haue not thus ſuffered from the Turkes vniuſtly, for my faith in Chriſt, as is aboue-written. For they laid on the Earth thicke pieces of Timber like the beames of
+<pb facs="tcp:183990:4"/>an houſe, and to them they bound me; and then they began to beate mee with ſcourges, as appeareth in the figure. Two men dipping their Roddes in ſalt Water beganne to ſcourge me; and when the one was lifting vp his hand; the other was ready to ſtrike, ſo that I could take no reſt, and my paine was moſt grieuous: and ſo they continued bea<g ref="char:EOLhyphen"/>ting me, ſaying, Turne Turke, and we will free thee: but I anſwered them, In no caſe, vntill they made me halfe dead. Then they reſted a while, ſaying, He is ſurely very conſtant, and will not deny his Religion: but we will tell him that we will let him goe if he will ſay that the Athenian Merchants which are in Venice, ſent him to betray Athens vnto the Spaniards: and then they began to beate mee on the feete, ſaying: Confeſſe that the Athenians which traffique in Venice, ſent thee to betray Athens to the Spaniards, and we will let thee goe. Now the Turkes would haue mee beare falſe witneſſe againſt the Athenians, that thereby they might take them, and ſlay them for the hatred which was between the Gouernour, and the Athenians. I ſaid nothing to this, and till this time I vnderſtood what the Turkes ſaid; but from this moment, that is, from that time, in which they ſaid twice or thrice to me, Confeſſe that the Athenians ſent thee to betray Athens, I anſwered nothing, I vnderſtood nothing, I was perfectly dead, and ſo remayned for the ſpace of an houre, and againe after an houre, by the grace of God reui<g ref="char:EOLhyphen"/>ued. I know not wel how long time I remained dead; but the Grecians of Athens told me that I was dead for an houres ſpace, as they had heard from the mouth of the Turkes that tormented me. Then the Turkes tooke all my ſubſtance, my bookes, I meane; and riches; and I was much in debt, till by the requeſt of many Noblemen I was freed from Priſon. And after a weeke, they counſelled among themſelues to take mee, and in one houre to kill mee, or make mee turne Turke by whipping, and other torments: But this laying wait was made knowne to all the Chriſtians, both men and women in Athens, and to me alſo. Then I fled from Athens, and came vnto Peloponneſus into the houſe of my Brothers,
+<pb facs="tcp:183990:5"/>and the Turkes purſued mee to their houſe, to the end they might take me in the ſame: who wrought meanes for my eſ<g ref="char:EOLhyphen"/>cape, that I was not then taken. And after that I was fledde from thence, they layd hands on my two Brothers, with whom how they dealt God knowes, and not I. And thus wandering abroad, I found expert Merchants, which knew well both England and many other places: and I inquired diligently of them where I might keepe my Religion, &amp; in<g ref="char:EOLhyphen"/>creaſe my Learning: they told me, in England you may haue both, for the Engliſh men loue the Grecians, and their Learning: and it is a Monarchie, where are found many very honeſt, wiſe, and liberall men. Therefore I came in a ſtreight courſe to England, ſtudying theſe many yeares. And firſt I thanke God, who ſent mee ſuch honeſt and lear<g ref="char:EOLhyphen"/>ned men; and ſecondly your Worſhips, who are my moſt kind Benefactours, and all good and charitable men: and I be<g ref="char:EOLhyphen"/>ſeech God day and night, that hee will reſtore an hundred fold to you in this life, and in the life to come a Crowne in<g ref="char:EOLhyphen"/>corruptible; to you I ſay, and all other good men, for their great goodneſſe and liberalitie. Amen.</p>
+            <div type="letter">
+               <head>An Epiſtle in commendations of England and the Inhabitants thereof.</head>
+               <p>I am conſcious to my ſelfe of mine owne vnworthineſſe, hauing not ſo much as a taſt of that Learning, which might make me bold to preſent my lines before ſo worthy men: yet becauſe (as a Wiſeman hath it) neceſſitie driues a man to many a ſhift; I am therefore thus ſet on worke. Our Sauiour Chriſt both God and man; as God doth require ſpirituall honour from the ſoules of men, to wit, goodneſſe, loue, care<g ref="char:EOLhyphen"/>fulneſſe to performe good things, almes deeds, and the like; according to that of the Prophet <hi>Dauid, Let euery ſpirit praiſe the Lord:</hi> and as S. <hi>Paul</hi> commandeth, <hi>Glorifie GOD in your bodie, &amp; in your ſpirit, for they are Gods.</hi> Now as man, our Lord requireth ſuch honour, as was due vnto that perſon in him. For ſo it appeareth in that queſtion of his vnto the Le<g ref="char:EOLhyphen"/>per;
+<pb facs="tcp:183990:5"/>who, of ten that were clenſed, alone returned to render our Sauiour thankes: <hi>Are there not ten cleanſed, but where are thoſe nine?</hi> Surely as a Wiſeman ſpeaketh, he muſt needs be of a very ingratefull diſpoſition, who in matters of kind<g ref="char:EOLhyphen"/>neſſe can ſuddenly become forgetfull. For my owne part if there be any ſuch, who for benefits receiued, ſhall not re<g ref="char:EOLhyphen"/>turne ſpeciall acknowledgement alwaies vnto his friends, let him beare that foule note of ingratitude, with diſgrace and infamie amongſt men. I my ſelfe for ſome yeares haue beene nurſed in this delicious and blisfull Engliſh Ile: ſhould I not euer acknowledge this with all thankfulneſſe both to this Countrey, and ſpecially to your moſt reuerend dignitie, and to your ſelfe my kind Maſter and Benefactour? I might iuſtly be accounted one of thoſe. Therefore that I may not ſeeme vngratefull for ſuch great benefits, as much as in mee lyes, I will ſend forth this ſpeech, and ſo I begin.</p>
+               <p>O faire-like man, thou moſt fertill and pleaſant Country of England, which art the head of the World, indued with thoſe two faire Eyes, the two Vniuerſities, which raineſt downe moſt plentifully Milke and Honey. I call thee faire<g ref="char:EOLhyphen"/>like man, and the head beautified with two pleaſant Eyes, becauſe heretofore thou didſt ſend forth two hornes of the holy Church of Chriſt. The firſt is <hi>Conſtantine</hi> the Great, that ſecond Light of the World, who freed ſuch as were held in captiuitie for the confeſſion of Chriſt, who driued away the myſt of Idolatry, who was equall with the Apoſtles, and firſt triumphed ouer the enemies of Chriſt. The ſecond horne is holy <hi>Helen,</hi> who found out that life-bearing croſſe, the weapons of all true Chriſtians, the moſt holy Mother of the World. But now, and long ſince thou haſt beene beautified with two reſplendent Eyes, in that thou contayneſt the two famous Vniuerſities. For I call the two Vniuerſities the two reſplendent Eyes, euen moſt renowned, and moſt beautifull Oxford, with her Siſter the like renowned Cambridge. And if it be lawfull to compare the World to a mans body (for a man, according to <hi>Ariſtole,</hi> is a little World) ſurely I muſt account England the head of this bodie: for it is euen ſo diui<g ref="char:EOLhyphen"/>ded
+<pb facs="tcp:183990:6"/>by the Sea from the other parts of the World, as a mans head from his body by the neck. Thou art alſo the place of re<g ref="char:EOLhyphen"/>fuge, euen the hauen of comfort to poore Grecians oppreſſed with the tyranny of the Turks: as <hi>Dauid</hi> ſaies in the 83. <hi>Pſal. Againſt the Arke of the couenant, the Tabernacles of Edom, and the Iſmaelites haue ſet themſelues, &amp;c.</hi> Thou bringeſt forth moſt Wiſe men, yea moſt valiant and heroicall Cap<g ref="char:EOLhyphen"/>taines, (as heretofore Grecia did) yea and thoſe louers of the Greeks, &amp; partakers of their former vertues. Now the reaſon of this I will tell you. We reade in the Hiſtories of <hi>Euſebius</hi> Biſhop of Ceſarea, that <hi>Conſtantine</hi> the Great, &amp; his holy mother <hi>Helen</hi> were Brittaines, the offpring and flowres of Brittaine: and when <hi>Constantine</hi> the Great, ruled ouer the Grecians, as alſo the whole World, then his kinsfolke came out of Brittaine to Conſtantinople, &amp; liued in the preſence of <hi>Conſtantine;</hi> and like wiſe the Grecians were ſent into Eng<g ref="char:EOLhyphen"/>land from <hi>Conſtantine,</hi> and ſo the Grecians &amp; Engliſh were mingled in bloud. And for this cauſe the Engliſh loue the Grecians, and their Learning, and are beloued of them more then any other Nation. And they partake one of another in many things beſide: For the Engliſh Nation haue excelled in Wiſdome, &amp; all Heroicall Vertues, as the Grecians of old did. And they doe diligently, &amp; with great vnderſtanding ſearch out the truth, (as ſaith <hi>Paul, Beware leſt any make a prey of you through philoſophie, and vaine deceit</hi>) as the Gre<g ref="char:EOLhyphen"/>cians alſo heretofore are accounted to haue done: and they are alſo giuen to hoſpitalitie, &amp; pittie of poore ſtrangers, as were the Grecians (as S. <hi>Paul</hi> ſayes to the <hi>Theſſalonians, Con<g ref="char:EOLhyphen"/>cerning brotherly loue I need not ſpeake: for you are taught this from aboue:</hi>) &amp; they will alſo dye for their Religion, but ne<g ref="char:EOLhyphen"/>uer turne from their true worſhip of God to any other, as al<g ref="char:EOLhyphen"/>ſo the Grecians: yea I my ſelfe was once dead through the cruell ſcourging of the Turkes for the Faith of Chriſt, and I neuer denyed Chriſt the true God. (I thanke him that ſtreng<g ref="char:EOLhyphen"/>thened me.)</p>
+               <p>All haile therefore, O moſt worthy England: for thou art a Virgine, which waſt neuer brought into thraldome by any
+<pb facs="tcp:183990:6"/>King, although thou haſt bin ſometime humbled, yet thou waſt ne<g ref="char:EOLhyphen"/>uer captiued: &amp; as thou art a Virgine, ſo the mother alſo of many wiſe men, yea valiant Captaines, &amp; heroicke Warriers. Thus much be ſpoken of England, which of no other can ſo truly beverified.</p>
+               <figure>
+                  <head>In Commendation of England.</head>
+               </figure>
+               <p>Firſt, the <hi>Head,</hi> ſignifieth <hi>England.</hi> Secondly, the <hi>Crowne,</hi> ſhewes the ſtrength of the <hi>Land.</hi> Thirdly, the <hi>Eyes,</hi> ſignifieth the two great <hi>Vniuerſities</hi> of <hi>England.</hi> Fourthly, the <hi>Mouth,</hi> ſignifieth <hi>London.</hi> Fiftly, the <hi>Noſe,</hi> ſignifieth the <hi>Riuer</hi> of <hi>Thames.</hi> Sixtly, the <hi>Haire,</hi> ſignifieth the goodneſſe of <hi>England.</hi> Seuenthly, the little <hi>Man,</hi> ſig<g ref="char:EOLhyphen"/>nifieth a <hi>Grecian</hi> that was perſecuted by the <hi>Turkes,</hi> and comne to receiue the goodneſſe of <hi>England.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="letters">
+            <div type="letter">
+               <pb facs="tcp:183990:7"/>
+               <pb facs="tcp:183990:7"/>
+               <p>THe Bearer hereof, <hi>Chriſtopher Angell,</hi> a Greeke borne in Peloponneſus, hauing bin perſecuted by the Turkes for his Religion, which by his Letters Teſtimoniall appeareth, and for that cauſe was forced to leaue his Countrey, came to Cambridge about Whitſontide 1608. and finding ſome re<g ref="char:EOLhyphen"/>liefe, hath continued vnto the day of the date hereof. During which time, his mauner of life hath bin very honeſt and ſtu<g ref="char:EOLhyphen"/>dious. Now, becauſe he could not here haue his health, be<g ref="char:EOLhyphen"/>ing deſirous to trauell abroad into the Countrey, he hath re<g ref="char:EOLhyphen"/>queſted theſe our Letters for a Teſtimonie of his honeſt be<g ref="char:EOLhyphen"/>hauiour, which we haue willingly granted vnto him, and ſet to our hands, this tenth of <hi>May.</hi> 1610.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>Ioha. Duport. Vicecan.</item>
+                        <item>Thomas Comber Trinitatis Coll</item>
+                        <item>Samuel Brooke Trin. Coll.</item>
+                        <item>Geruaſe Nid.</item>
+                        <item>Nath. Taylor.</item>
+                        <item>Ioſua Blaxton.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>To the Clergie and others of the Dioces of Sarum.</head>
+               <p>WHereas the Bearer hereof, <hi>Chriſtopher Angell,</hi> a poore Grecian (whom we haue knowne in the Vni<g ref="char:EOLhyphen"/>uerſitie of Oxford well and honeſtly to behaue himſelfe to<g ref="char:EOLhyphen"/>wards all men) being in great want, and hauing not where<g ref="char:EOLhyphen"/>with to ſupply the ſame, requeſted our Letters to ſtirvp the hearts of thoſe that ſhall bee ready to commiſerate his caſe: Theſe are therefore to commend him and his charitable ſuite to your Chriſtian beneuolence, in ſuſtayning of whom you ſhall doe very well: and ſo much the more, becauſe hee hath bin perſecuted for his Religion, as by his Letters Teſtimo<g ref="char:EOLhyphen"/>niall plainly appeareth. Thus fare you well. From our Palace at <hi>Sarum.</hi> 15. <hi>Die Auguſti.</hi> 1616.</p>
+               <closer>
+                  <signed>¶ <hi>Ro. Sarum.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb facs="tcp:183990:8"/>
+               <p>THe Bearer hereof, <hi>Christopher Angell,</hi> a Greeke, borne in Peloponneſus, hauing bin perſecuted by the Turkes for his Religion, as by his Letters Teſtimoniall appeares, &amp; for that cauſe forced to leaue his Countrey, came to Oxford a<g ref="char:EOLhyphen"/>bout Whitſontide 1610. and finding reliefe, hath continued vnto the day of the date hereof; during which time, his man<g ref="char:EOLhyphen"/>ner of life hath bin quiet, honeſt, and ſtudious. And becauſe he is weary, and deſirous to viſit his friends in England, hee hath requeſted theſe our Letters Teſtimoniall of his honeſt behauiour amongſt vs, which we haue willingly granted vn<g ref="char:EOLhyphen"/>to him, and thereunto ſet our hands, this 20. of <hi>March, An. Dom.</hi> 1617.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>Arthur Bath and Wells, Vicecan. Oxon.</item>
+                        <item>R. Kilby.</item>
+                        <item>R. Kettell.</item>
+                        <item>William Goodwin.</item>
+                        <item>Sebaſtian Benefield.</item>
+                        <item>William Langton.</item>
+                        <item>Richard Mocket.</item>
+                        <item>Iohn Prideaux.</item>
+                        <item>Tho. Anyan.</item>
+                        <item>Theod. Price.</item>
+                        <item>Io. Wilkinſon.</item>
+                        <item>Tho. Iames.</item>
+                        <item>Samuel Radeclif.</item>
+                        <item>Ant. Blincowe.</item>
+                        <item>Griffith Powell.</item>
+                        <item>Fr. Greuile.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb facs="tcp:183990:8"/>
+               <p>THe Bearer hereof <hi>Chriſtopher Angell,</hi> a Greeke, borne in Peloponneſus, hauing been perſecuted by the Turkes for his Religion, as by his Letters Teſtimoniall appeares, and for that cauſe forced to leaue his Countrey, came to Oxford a<g ref="char:EOLhyphen"/>bout Whitſontide, 1610. and finding reliefe hath continued vnto the day of the date hereof; during which time his man<g ref="char:EOLhyphen"/>ner of life hath beene quiet, honeſt and ſtudious, greatly differing from the lewd courſe of ſome other Greekes, that wander vp and downe: and now they haue ſent Letters from his Countrey, certifying him that after hee fled thence, the Turkes layd hold of his Brethren and Kinſfolkes, as that ſent him away; and haue taken from them all their goods, &amp; caſt them moreouer into great debt, for which debt, and much vſe which they are forced to pay, they are in trouble vntill this day. For which cauſe he hath deſired theſe our Letters Teſtimoniall of his honeſt behauiour amongſt vs, which wee haue willingly granted vnto him, and therunto ſet our hands, this <hi>Iuly</hi> 3. 1620.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>Iohn Prideaux Vicecan. Oxon.</item>
+                        <item>Richard Kilbey.</item>
+                        <item>R. Kettell.</item>
+                        <item>Sebaſtian Benefield.</item>
+                        <item>Io. Parkhurst.</item>
+                        <item>Theo. Price.</item>
+                        <item>Tho. Iames.</item>
+                        <item>Io. Wilkinſon.</item>
+                        <item>Guliel. Piers.</item>
+                        <item>Rich. Aſtley.</item>
+                        <item>Ro. Pinck.</item>
+                        <item>Guil. Smith.</item>
+                        <item>Tho. Clayton. Medic. Profeſſor Regius.</item>
+                        <item>Matthew Osborne, Procurator ſenior.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:183990:9"/>
+            <head>
+               <hi>Eugenius</hi> and <hi>Rhodius,</hi> thy Brethren according to the fleſh, and thy Sifters <hi>Gergulina</hi> and <hi>Aſmena,</hi> and the reſt of thy Kinsfolkes and friends, ſalute thee our Bro<g ref="char:EOLhyphen"/>ther Maſter <hi>Chriſtopher.</hi>
+            </head>
+            <p>WE giue you to vnderſtand (Brother) that ſince you fled from Athens, leſt thou ſhouldeſt be apprehen<g ref="char:EOLhyphen"/>ded againe, and forced to denie Chriſtian; and repayring to vs to auoyd them that ſought thee, wee procured thee ſafe flight; and after thy flight, the Turkes and the Grecians, who payed money for thee in Athens, hauing notice that we were thy Brothers, laid hold on vs, and impriſoned vs, and ſore afflicted vs with many puniſhments. The Turkes alſo that payd money for thy ranſome, took from vs all the goods we had, and for the remainder we yet pay intereſt. Now all thy debts together with the vſurie, amount to three hundred pounds or thereabout. Neither is this all wee ſuffer, but our Children alſo are in hold, and attached for thy debt, and are in danger to turne Turkes and deny Chriſt. Wee knew not whither thou waſt gone, now wee haue heard thou art in England. Now we demand of thee, whether it be good that we and our Children ſhould ſuffer theſe euils for thy debts? We entreate therefore for Gods ſake, either to come thy ſelfe to pay thy debts, or ſend them, and free vs and our Chil<g ref="char:EOLhyphen"/>dren from the hands of Infidels, leſt thou giue an account to God for the iniuries which for thy ſake we ſuffer.</p>
+            <closer>
+               <dateline>
+                  <hi>From Gaſton a City in Pelopon.</hi> 
+                  <date>1618. 5. <hi>Ian.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <pb facs="tcp:183990:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
